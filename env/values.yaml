@@ -15,7 +15,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 34.76.150.114.nip.io
+    domain: 34.76.145.21.nip.io
     exposer: Ingress
     http: "true"
 jenkins:
